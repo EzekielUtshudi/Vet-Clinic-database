@@ -1,6 +1,6 @@
 # PostgreSQL Vet Clinic Database
 
-This is a postgreSQL database for Vet clinic data. It has tables that contain animals' information. In the tables, user can insert data into it and query it.
+This is a postgreSQL database for Vet clinic data. It has tables that contain animal's information. In the tables, user can insert data into it and query it.
 
 
 ## Getting Started
